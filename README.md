@@ -1,6 +1,6 @@
 # PDF2Pegatina
 
-Pequeña utilizada de uso interno
+Pequeña utilidad de uso interno
 
 Permite generar las pegatinas con los numeros de expediente para los nichos del REGISTRO DE SOLIDARIDAD, a partir del PDF que genera SISS al darle al botón IMPRIMIR con la lista de expedientes.
 

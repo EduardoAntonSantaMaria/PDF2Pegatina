@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PDF2Pegatina:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PDF2Pegatina_jar</output-path>
+    <root id="archive" name="PDF2Pegatina.jar">
+      <element id="module-output" name="PDF2Pegatina" />
+      <element id="extracted-dir" path="$USER_HOME$/Descargas/pdfbox-app-1.8.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
